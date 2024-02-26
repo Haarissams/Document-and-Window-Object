@@ -1,0 +1,19 @@
+
+Documents:
+In computing, a document typically refers to a file or collection of data that contains information intended to be viewed, edited, or processed by a software application. 
+Documents can include text files, spreadsheets, presentations, images, videos, etc. 
+Documents are typically created and managed by applications such as word processors, spreadsheets, presentation software, image editors, etc. Examples of document formats include .
+They are
+docx 
+.xlsx 
+.pptx 
+.pdf 
+.jpg 
+.mp4 etc.
+
+Windows Objects: 
+In the context of Microsoft Windows operating system, a "Windows object" refers to a fundamental programming concept used in the Windows API (Application Programming Interface).
+ Windows objects represent various elements of the graphical user interface (GUI) such as windows, controls, menus, icons, cursors, etc. Each window or graphical element in a Windows application is represented by a corresponding Windows object. 
+These objects are manipulated and managed by the operating system and applications through the Windows API. 
+Examples of Windows objects include windows (HWND), buttons, edit boxes, list boxes, menus, etc.
+
